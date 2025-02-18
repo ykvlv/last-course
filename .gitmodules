@@ -1,0 +1,6 @@
+[submodule "melo-backend"]
+	path = melo-backend
+	url = https://github.com/ykvlv/melo-backend.git
+[submodule "melo"]
+	path = melo
+	url = https://github.com/ykvlv/melo.git
